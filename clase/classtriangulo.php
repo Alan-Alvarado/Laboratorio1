@@ -36,7 +36,7 @@ and open the template in the editor.
                         <td style="text-align: center  "><input type="text" name="altura" size=5></td>
                  </tr>
                  <tr>
-                        <td  style="text-align: center ; width: 50% ">Ingrese la base de altura del triangulo</td>
+                        <td  style="text-align: center ; width: 50% ">Ingrese el valor de base del triangulo</td>
                         <td style="text-align: center  "><input type="text" name="base" size=5></td>
                 </tr>
                 <tr aling = "center">
